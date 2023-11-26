@@ -23,6 +23,7 @@ const LogInRegister = () => {
     setShowConfirmPassword((prevShowConfirmPassword) => !prevShowConfirmPassword);
   };
 
+  
   return (
     <div className="bg-color-sky-50">
       <div className="text-black text-6xl font-bold text-center mt-28">WELCOME TO METAMORPHOSIS GYM</div>
